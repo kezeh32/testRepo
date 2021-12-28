@@ -8,7 +8,7 @@ After going through the files, you should be able to gauge my analytical experie
 *   I can get data from any source or database, SQL or NOSQL
 
   <center>
-    <img src="testRepo/lantern_analyst_logo.png" width="300" height="300"alt="lantern logo"  />
+    <img src="lantern_analyst_logo.png" width="300" height="300"alt="lantern logo"  />
 </center>
 
 # Plotting Charts
