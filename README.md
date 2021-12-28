@@ -1,6 +1,6 @@
-# This file repository contain notebooks on data analysis <br>by the Lantern Analyst (me:)</br>
+# This file repository contain notebooks on data analysis <br>by the Lantern Analyst (me)</br>
 
-## AIM
+## AIM:
 
 After going through the files, you should be able to gauge my analytical experience and possibly get me an interview invite <smiles>
 
