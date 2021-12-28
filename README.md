@@ -1,4 +1,4 @@
-# This file repository contain notebooks on data analysis /n by the Lantern Analyst (me:)
+# This file repository contain notebooks on data analysis <br>by the Lantern Analyst (me:)</br> /n by the Lantern Analyst (me:)
 
 ## AIM
 
