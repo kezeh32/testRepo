@@ -2,7 +2,7 @@
 
 ## AIM:
 
-After going through the files, you should be able to gauge my analytical experience and possibly get me an interview invite <smiles>
+After going through the files, you should be able to gauge my analytical experience <smiles>
 
 *   I can create data from simple everyday activities performed by any matter
 *   I can get data from any source or database, SQL or NOSQL
